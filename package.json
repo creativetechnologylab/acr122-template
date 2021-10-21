@@ -1,14 +1,9 @@
 {
-  "name": "acr122",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "nfc-pcsc": "^0.6.2"
+    "nfc-pcsc": "^0.8.1",
+    "robotjs": "^0.6.0"
+  },
+  "devDependencies": {
+    "node-key-sender": "^1.0.11"
   }
 }
